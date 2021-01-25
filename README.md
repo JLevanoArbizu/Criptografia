@@ -1,3 +1,5 @@
+## Investigaciones
+https://miro.com/app/board/o9J_lXL_akg=/
 ## Encriptado
 ## Datos
 ###### Alumno
