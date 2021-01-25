@@ -33,3 +33,5 @@ https://valerieaurora.org/hash.html
 
 ###### Referencias
 - Duración de las funciones hash criptográficas. (2017). Obtenido en 2021 del sitio web Valerieaurora.org: https://valerieaurora.org/hash.html .
+
+- Platzi. (2017). Cómo romper algoritmos de cifrado y la vulnerabilidad de SHA-1 [YouTube Video]. Retrieved from https://www.youtube.com/watch?v=T_6vZOZWfP4
